@@ -37,6 +37,10 @@
 		{
 			"Name": "ShallowWater",
 			"Enabled": true
+		},
+		{
+			"Name": "GPULightmass",
+			"Enabled": true
 		}
 	]
 }
