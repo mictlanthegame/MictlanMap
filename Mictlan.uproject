@@ -41,6 +41,11 @@
 		{
 			"Name": "GPULightmass",
 			"Enabled": true
+		},
+		{
+			"Name": "UIPF",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2dbd630736494432acebf25a59a98b77"
 		}
 	]
 }
